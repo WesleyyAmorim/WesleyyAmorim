@@ -3,12 +3,15 @@
 </div>
 <hr>
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleyyamorim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wesleyyamorim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleyyamorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleyyamorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="119" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wesleyyamorim&locale=pt-br&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleyyamorim&radius=16&theme=noctis-minimus&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%B5es%20no%20GithHub" height="250" alt="activity-graph graph"  />
 </div>
+
+###
 
 <img align="right" height="180" src="https://img1.picmix.com/output/pic/normal/2/7/5/5/11325572_65299.gif"  />
 <br>
