@@ -3,17 +3,15 @@
 </div>
 <hr>
 
-<div align="rigth">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleyyamorim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleyyamorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleyyamorim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=wesleyyamorim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleyyamorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
-
-###
-
-<img align="right" height="150" src="https://img1.picmix.com/output/pic/normal/2/7/5/5/11325572_65299.gif"  />
-
-###
+<img align="right" height="180" src="https://img1.picmix.com/output/pic/normal/2/7/5/5/11325572_65299.gif"  />
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -28,7 +26,8 @@
   <img width="12" />
 </div>
 
-###
+<br>
+<br>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
